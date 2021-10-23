@@ -48,5 +48,6 @@ def main():
     save_model(model, "./model")
     print("SUCCESS")
 
+
 if __name__=="__main__":
     main()
