@@ -32,13 +32,7 @@
 ==============
 sample_sklearn
 ==============
-
-
-    Add a short description here!
-
-
-A longer description of your project goes here...
-
+You can run make install to install the package. The train file in src/sample_sklearn contains the code for loading, training and saving a model for scikit-learn.
 
 .. _pyscaffold-notes:
 
